@@ -373,5 +373,4 @@ const main=async(privateKeys,thread=1)=>{
     }
 
 }
-main(PrivateKeys$136Wallets.slice(0),2) //33+83=116
-// main(PrivateKeys$18Wallets.slice(0,18),2)
+main(PrivateKeys$136Wallets.slice(0),2)
